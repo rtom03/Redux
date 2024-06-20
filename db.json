@@ -1,0 +1,32 @@
+{
+  "CategoryLog":[{
+     "foodCategory":{
+        "id":"1",
+        "name":"John Doe",
+        "specialty":"Food & Beverages",
+        "description":"John Doe is a dedicated gofer specializing in Food & Beverages. With a keen understanding of culinary preferences and an impeccable service ethos, John ensures that every dining experience is curated to perfection. Whether it's preparing bespoke meals or orchestrating seamless service, John's expertise guarantees exceptional satisfaction in every gastronomic endeavor"
+     }
+        },{
+           "medicalCategory":{
+             "id":"2",
+             "name":"Karen William",
+             "specialty":"Pharmarcy & Laboratory",
+             "description":"Karen William is a highly skilled professional specializing in Pharmacy and Laboratory services. With extensive knowledge in pharmaceutical sciences and laboratory diagnostics, Karen ensures precise and efficient management of medications and accurate laboratory results. Her dedication to excellence and patient care makes her an invaluable asset in the medical field."
+           }
+        },{
+            "entertainment":{
+                "id":"3",
+                "name":"Jack Tyler",
+                "specialty":"Tourist & Fun",
+                "description":"Karen William is a highly skilled professional specializing in Pharmacy and Laboratory services. With extensive knowledge in pharmaceutical sciences and laboratory diagnostics, Karen ensures precise and efficient management of medications and accurate laboratory results. Her dedication to excellence and patient care makes her an invaluable asset in the medical field."
+            }
+        },{
+            "Fashion":{
+                "id":"4",
+                "name":"Rose Mary",
+                "specialty":"Beauty & Shopping",
+                "description":"Karen William is a highly skilled professional specializing in Pharmacy and Laboratory services. With extensive knowledge in pharmaceutical sciences and laboratory diagnostics, Karen ensures precise and efficient management of medications and accurate laboratory results. Her dedication to excellence and patient care makes her an invaluable asset in the medical field."
+            }
+        }
+    ]
+}
