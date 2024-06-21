@@ -1,6 +1,7 @@
 import { Route, Routes } from "react-router-dom"
 import DashboardRoutes from "./config/routes"
 import MainLayout from "./pages/MainLayout"
+import Navbar from "./components/Navbar"
 
 
 
@@ -17,7 +18,9 @@ function App() {
            element={routes.element}
               />
         ))}
+        
         </Route>
+        <Route path="/navbar" element={<Navbar/>}/>
     </Routes>
        
   )
